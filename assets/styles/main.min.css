@@ -922,6 +922,10 @@ html {
   width: 100%;
 }
 
+.w-24 {
+  width: 6rem;
+}
+
 .w-2\/3 {
   width: 66.666667%;
 }
@@ -1525,6 +1529,10 @@ html {
   .md\:mx-0 {
     margin-left: 0px;
     margin-right: 0px;
+  }
+
+  .md\:w-32 {
+    width: 8rem;
   }
 
   .md\:w-1\/3 {
