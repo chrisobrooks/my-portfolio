@@ -902,10 +902,6 @@ html {
   height: 12rem;
 }
 
-.h-3 {
-  height: 0.75rem;
-}
-
 .h-24 {
   height: 6rem;
 }
@@ -1084,14 +1080,9 @@ html {
   background-color: rgb(244 243 248 / var(--tw-bg-opacity));
 }
 
-.bg-lila {
+.bg-grey-80 {
   --tw-bg-opacity: 1;
-  background-color: rgb(230 229 236 / var(--tw-bg-opacity));
-}
-
-.bg-grey-10 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(108 107 109 / var(--tw-bg-opacity));
+  background-color: rgb(43 42 43 / var(--tw-bg-opacity));
 }
 
 .bg-opacity-70 {
@@ -1228,8 +1219,8 @@ html {
   padding-top: 1.5rem;
 }
 
-.pt-10 {
-  padding-top: 2.5rem;
+.pb-5 {
+  padding-bottom: 1.25rem;
 }
 
 .pb-10 {

@@ -29,6 +29,7 @@ module.exports = {
       "grey-50": "#f4f3f8",
       "grey-60": "#edebf6",
       "grey-70": "#d8d8d8",
+      "grey-80": "#2B2A2B",
       "hero-gradient-from": "rgba(9, 9, 10, 0.95)",
       "hero-gradient-to": "rgba(94, 94, 94, 0.93)",
       "blog-gradient-from": "#8f9098",
